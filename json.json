@@ -1,0 +1,12 @@
+{
+    "class":[
+        {
+            "name":"muthu",
+            "age":24
+        },
+        {
+            "name":"sankar",
+            "age":24
+        }
+    ]
+}
